@@ -1,0 +1,24 @@
+posting date : departure/dispatch  date of the material.
+order priority : 
+                 regular : regular sale
+                 super cash : offer/discount/scheme 
+idem id: sku_id->(particular packing)
+Brand code :company brand name (code)
+Item name :what is the product along with brand (packed sku)
+brand name :Specific brand name 
+{CIB: Central Insecticide Board [ provide permission for product formulation and desired packing ]
+Batch number: identity of manufacturing batch.
+Mfg date: Birth date ( Batch making date )
+Expiry date : date after which product validity is finished.
+Quantity : number of sku .
+Quantity Ltr/Kg: quantity in litre and kg (total)
+Return Quantity : sku returned to the company.(reanalyze and then result ,test report and from taking suggestion from r&d team it will be further processed/incedated to etp)
+Max retail price: maximum market price with including all the tax.(price of sku)
+unit price: excluding Tax .
+Tax Base Amounnt:
+Indent number : unique number for identification of product.(requirement generated)
+Indent Date: indent booking date.
+
+
+
+
